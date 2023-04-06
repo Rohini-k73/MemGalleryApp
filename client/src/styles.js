@@ -15,4 +15,13 @@ export default makeStyles(() => ({
   image: {
     marginLeft: '15px',
   },
+
+
+//   [theme.breakepoints.down('sm')]:{
+//     mainContainer:{
+//       flexDirection : "column-reverse",
+
+//   }
+
+// }
 }));
