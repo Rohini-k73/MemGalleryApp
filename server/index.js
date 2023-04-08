@@ -17,7 +17,6 @@ app.use(cors());
 
 app.use('/posts', postRoutes);
 
-// const CONNECTION_URL = 'mongodb+srv://rohi:rohi123@cluster0.sjkirka.mongodb.net/?retryWrites=true&w=majority';
 const PORT = process.env.PORT|| 5000;
 
 
